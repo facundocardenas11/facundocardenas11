@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @facundocardenas11
-- 👀 I’m interested in lenguaje Java, Javascript with Angular and React Frameworks
-- 🌱 I’m currently learning Auto-Ayuda
-- 💞️ I’m looking to collaborate on developert bank aplicattions
-- 📫 How to reach me ...
+- 👋 Buenas, Soy Desarrollador de Software.
+- 👀 Estoy interesado en Java, Python, Angular, React, Javascript y entre otras tecnologias.
+- 🌱 Me gusta aprender sobre auto-ayuda y motivacion
+- 💞️ Estoy colaborando en agregar proyectos con Spring Boot a la plataforma.
+
 
 <!---
 facundocardenas11/facundocardenas11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
