@@ -1,5 +1,5 @@
-- 👋 Buenas, Soy Desarrollador de Software.
-- 👀 Estoy interesado en Java, Python, Angular, React, Javascript y entre otras tecnologias.
+- 👋 Hola, Soy Desarrollador de Software.
+- 👀 Estoy interesado en Java, Python, Javascript y entre otras tecnologias.
 - 🌱 Me gusta aprender sobre auto-ayuda y motivacion
 - 💞️ Estoy colaborando en agregar proyectos con Spring Boot a la plataforma.
 
